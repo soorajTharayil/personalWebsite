@@ -20,4 +20,8 @@
    a:hover{
     transform: scale(1.5);
    } 
+   
+.col-md-6 :hover{
+    transition: 2s;
+}
 
